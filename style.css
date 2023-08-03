@@ -120,12 +120,12 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .bookkk{
-    width: 300px;
-    height: 460px;
-    margin: 30px;
+    width: 250px;
+    height: 370px;
+    margin: 20px;
     border-radius: 15px;
     float: left;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
 }
 .high{
     height: 600px;
